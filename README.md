@@ -2,6 +2,8 @@
 
 Extract clippings from your Kindle.
 
+[![Clojars Project](http://clojars.org/candelabrum/latest-version.svg)](http://clojars.org/candelabrum)
+
 ## Usage
 
 1. Add `[candelabrum "0.1.0"]` to dependencies.
